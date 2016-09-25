@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9e9374f3f7d92da7870d25624ee65aea:7e11e3221f16eddae80156455725c980:be498b99a5f91e25431226443a025dcc$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Castillo-MaxRects-433x305.png" width="433" height="305">
+    <sprite n="castillo1-A-110x110.png" x="218" y="2" w="108" h="103" pX="0.5" pY="0.5" oX="7" oY="0" oW="110" oH="110" r="y"/>
+    <sprite n="castillo1-B-110x110.png" x="328" y="2" w="103" h="108" pX="0.5" pY="0.5" oX="7" oY="0" oW="110" oH="110"/>
+    <sprite n="castillo1-C-110x110.png" x="110" y="111" w="103" h="108" pX="0.5" pY="0.5" oX="7" oY="0" oW="110" oH="110"/>
+    <sprite n="castillo2-A-110x110.png" x="218" y="107" w="108" h="97" pX="0.5" pY="0.5" oX="9" oY="2" oW="110" oH="110" r="y"/>
+    <sprite n="castillo2-B-110x110.png" x="215" y="206" w="108" h="97" pX="0.5" pY="0.5" oX="9" oY="2" oW="110" oH="110" r="y"/>
+    <sprite n="castillo2-C-110x110.png" x="328" y="112" w="97" h="108" pX="0.5" pY="0.5" oX="9" oY="2" oW="110" oH="110"/>
+    <sprite n="castillo3-A-110x110.png" x="2" y="2" w="106" h="107" pX="0.5" pY="0.5" oX="2" oY="2" oW="110" oH="110"/>
+    <sprite n="castillo3-B-110x110.png" x="2" y="111" w="106" h="107" pX="0.5" pY="0.5" oX="2" oY="2" oW="110" oH="110"/>
+    <sprite n="castillo3-C-110x110.png" x="110" y="2" w="106" h="107" pX="0.5" pY="0.5" oX="2" oY="2" oW="110" oH="110"/>
+</TextureAtlas>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3d7d7b9afd93a7fc41bec0cfbb564322:74257fbd304f68bd5ea051fa1ee02596:01552dff053ec706a9749efd77fa301b$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Todo-Basic-581x498.png" width="581" height="498">
+    <sprite n="arquera1-A-110x110.png" x="2" y="2" w="62" h="91" pX="0.5" pY="0.5" oX="24" oY="9" oW="110" oH="110"/>
+    <sprite n="arquera1-B-110x110.png" x="66" y="2" w="62" h="91" pX="0.5" pY="0.5" oX="24" oY="9" oW="110" oH="110"/>
+    <sprite n="arquera1-C-110x110.png" x="130" y="2" w="62" h="91" pX="0.5" pY="0.5" oX="24" oY="9" oW="110" oH="110"/>
+    <sprite n="arquera2-A-110x110.png" x="194" y="2" w="75" h="98" pX="0.5" pY="0.5" oX="18" oY="6" oW="110" oH="110"/>
+    <sprite n="arquera2-B-110x110.png" x="271" y="2" w="75" h="98" pX="0.5" pY="0.5" oX="18" oY="6" oW="110" oH="110"/>
+    <sprite n="arquera2-C-110x110.png" x="348" y="2" w="75" h="98" pX="0.5" pY="0.5" oX="18" oY="6" oW="110" oH="110"/>
+    <sprite n="arquera3-A-110x110.png" x="425" y="2" w="75" h="100" pX="0.5" pY="0.5" oX="18" oY="5" oW="110" oH="110"/>
+    <sprite n="arquera3-B-110x110.png" x="502" y="2" w="75" h="100" pX="0.5" pY="0.5" oX="18" oY="5" oW="110" oH="110"/>
+    <sprite n="arquera3-C-110x110.png" x="2" y="104" w="75" h="100" pX="0.5" pY="0.5" oX="18" oY="5" oW="110" oH="110"/>
+    <sprite n="castillo1-A-110x110.png" x="79" y="104" w="103" h="108" pX="0.5" pY="0.5" oX="7" oY="0" oW="110" oH="110"/>
+    <sprite n="castillo1-B-110x110.png" x="184" y="104" w="103" h="108" pX="0.5" pY="0.5" oX="7" oY="0" oW="110" oH="110"/>
+    <sprite n="castillo1-C-110x110.png" x="289" y="104" w="103" h="108" pX="0.5" pY="0.5" oX="7" oY="0" oW="110" oH="110"/>
+    <sprite n="castillo2-A-110x110.png" x="394" y="104" w="97" h="108" pX="0.5" pY="0.5" oX="9" oY="2" oW="110" oH="110"/>
+    <sprite n="castillo2-B-110x110.png" x="2" y="214" w="97" h="108" pX="0.5" pY="0.5" oX="9" oY="2" oW="110" oH="110"/>
+    <sprite n="castillo2-C-110x110.png" x="101" y="214" w="97" h="108" pX="0.5" pY="0.5" oX="9" oY="2" oW="110" oH="110"/>
+    <sprite n="castillo3-A-110x110.png" x="200" y="214" w="106" h="107" pX="0.5" pY="0.5" oX="2" oY="2" oW="110" oH="110"/>
+    <sprite n="castillo3-B-110x110.png" x="308" y="214" w="106" h="107" pX="0.5" pY="0.5" oX="2" oY="2" oW="110" oH="110"/>
+    <sprite n="castillo3-C-110x110.png" x="416" y="214" w="106" h="107" pX="0.5" pY="0.5" oX="2" oY="2" oW="110" oH="110"/>
+    <sprite n="cañon1-A-110x110.png" x="2" y="324" w="57" h="59" pX="0.5" pY="0.5" oX="25" oY="26" oW="110" oH="110"/>
+    <sprite n="cañon1-B-110x110.png" x="61" y="324" w="57" h="59" pX="0.5" pY="0.5" oX="25" oY="26" oW="110" oH="110"/>
+    <sprite n="cañon1-C-110x110.png" x="120" y="324" w="57" h="59" pX="0.5" pY="0.5" oX="25" oY="26" oW="110" oH="110"/>
+    <sprite n="cañon2-A-110x110.png" x="179" y="324" w="60" h="61" pX="0.5" pY="0.5" oX="24" oY="25" oW="110" oH="110"/>
+    <sprite n="cañon2-B-A-110x110.png" x="241" y="324" w="60" h="61" pX="0.5" pY="0.5" oX="24" oY="25" oW="110" oH="110"/>
+    <sprite n="cañon2-C-110x110.png" x="303" y="324" w="60" h="61" pX="0.5" pY="0.5" oX="24" oY="25" oW="110" oH="110"/>
+    <sprite n="cañon3-A-110x110.png" x="365" y="324" w="70" h="66" pX="0.5" pY="0.5" oX="20" oY="22" oW="110" oH="110"/>
+    <sprite n="cañon3-B-110x110.png" x="437" y="324" w="70" h="66" pX="0.5" pY="0.5" oX="20" oY="22" oW="110" oH="110"/>
+    <sprite n="cañon3-C-110x110.png" x="509" y="324" w="70" h="66" pX="0.5" pY="0.5" oX="20" oY="22" oW="110" oH="110"/>
+    <sprite n="mina1-A-110x110.png" x="2" y="392" w="68" h="46" pX="0.5" pY="0.5" oX="21" oY="34" oW="110" oH="110"/>
+    <sprite n="mina1-B-110x110.png" x="72" y="392" w="68" h="46" pX="0.5" pY="0.5" oX="21" oY="34" oW="110" oH="110"/>
+    <sprite n="mina1-C-110x110.png" x="142" y="392" w="68" h="46" pX="0.5" pY="0.5" oX="21" oY="34" oW="110" oH="110"/>
+    <sprite n="mina2-A-110x110.png" x="212" y="392" w="62" h="48" pX="0.5" pY="0.5" oX="24" oY="29" oW="110" oH="110"/>
+    <sprite n="mina2-B-110x110.png" x="276" y="392" w="62" h="48" pX="0.5" pY="0.5" oX="24" oY="29" oW="110" oH="110"/>
+    <sprite n="mina2-C-110x110.png" x="340" y="392" w="62" h="48" pX="0.5" pY="0.5" oX="24" oY="29" oW="110" oH="110"/>
+    <sprite n="mina3-A-110x110.png" x="404" y="392" w="59" h="51" pX="0.5" pY="0.5" oX="27" oY="29" oW="110" oH="110"/>
+    <sprite n="mina3-B-110x110.png" x="465" y="392" w="59" h="51" pX="0.5" pY="0.5" oX="27" oY="29" oW="110" oH="110"/>
+    <sprite n="mina3-C-110x110.png" x="2" y="445" w="59" h="51" pX="0.5" pY="0.5" oX="27" oY="29" oW="110" oH="110"/>
+    <sprite n="muro1-A-110x110.png" x="63" y="445" w="32" h="42" pX="0.5" pY="0.5" oX="38" oY="35" oW="110" oH="110"/>
+    <sprite n="muro1-B-110x110.png" x="97" y="445" w="32" h="42" pX="0.5" pY="0.5" oX="38" oY="35" oW="110" oH="110"/>
+    <sprite n="muro1-C-110x110.png" x="131" y="445" w="32" h="42" pX="0.5" pY="0.5" oX="38" oY="35" oW="110" oH="110"/>
+    <sprite n="muro2-A-110x110.png" x="165" y="445" w="35" h="49" pX="0.5" pY="0.5" oX="37" oY="30" oW="110" oH="110"/>
+    <sprite n="muro2-B-110x110.png" x="202" y="445" w="35" h="49" pX="0.5" pY="0.5" oX="37" oY="30" oW="110" oH="110"/>
+    <sprite n="muro2-C-110x110.png" x="239" y="445" w="35" h="49" pX="0.5" pY="0.5" oX="37" oY="30" oW="110" oH="110"/>
+    <sprite n="muro3-A-110x110.png" x="276" y="445" w="31" h="49" pX="0.5" pY="0.5" oX="38" oY="31" oW="110" oH="110"/>
+    <sprite n="muro3-B-110x110.png" x="309" y="445" w="31" h="49" pX="0.5" pY="0.5" oX="38" oY="31" oW="110" oH="110"/>
+    <sprite n="muro3-C-110x110.png" x="342" y="445" w="31" h="49" pX="0.5" pY="0.5" oX="38" oY="31" oW="110" oH="110"/>
+</TextureAtlas>

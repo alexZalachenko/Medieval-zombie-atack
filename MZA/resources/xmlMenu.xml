@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1f7946508f0b4af41ac3a192734885da:61529985fb915a05d4972b6920ceed68:f0076519ec824c1fda972aa5c930a874$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="spriteMenu.png" width="1004" height="868">
+    <sprite n="barraVida.png" x="2" y="824" w="587" h="42" pX="0.5" pY="0.5" oX="4" oY="90" oW="600" oH="200"/>
+    <sprite n="fondoVida.png" x="392" y="404" w="595" h="50" pX="0.5" pY="0.5" oX="0" oY="86" oW="600" oH="200"/>
+    <sprite n="marcoCañon.png" x="132" y="404" w="128" h="275" pX="0.5" pY="0.5" oX="0" oY="0" oW="290" oH="128" r="y"/>
+    <sprite n="marcoCañonHover.png" x="262" y="404" w="128" h="275" pX="0.5" pY="0.5" oX="0" oY="0" oW="290" oH="128" r="y"/>
+    <sprite n="marcoMina.png" x="292" y="681" w="257" h="128" pX="0.5" pY="0.5" oX="0" oY="0" oW="290" oH="128"/>
+    <sprite n="marcoMinaHover.png" x="392" y="456" w="257" h="128" pX="0.5" pY="0.5" oX="0" oY="0" oW="290" oH="128"/>
+    <sprite n="marcoMuro.png" x="591" y="586" w="128" h="256" pX="0.5" pY="0.5" oX="0" oY="0" oW="290" oH="128" r="y"/>
+    <sprite n="marcoMuroHover.png" x="651" y="456" w="256" h="128" pX="0.5" pY="0.5" oX="0" oY="0" oW="290" oH="128"/>
+    <sprite n="marcoTorre.png" x="2" y="404" w="128" h="288" pX="0.5" pY="0.5" oX="0" oY="0" oW="290" oH="128" r="y"/>
+    <sprite n="marcoTorreHover.png" x="2" y="694" w="288" h="128" pX="0.5" pY="0.5" oX="0" oY="0" oW="290" oH="128"/>
+    <sprite n="menu.png" x="2" y="2" w="1000" h="400" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="wololo.png" x="721" y="586" w="128" h="256" pX="0.5" pY="0.5" r="y"/>
+</TextureAtlas>

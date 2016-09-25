@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:be024802f3464d0c18db939545291ce7:8f086e8217b2d52755bc907db8b98968:5877d77ab25eb97090689e64ebf5d25c$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="spriteZombie.png" width="3694" height="3858">
+    <sprite n="andar arr/hi0000.png" x="2" y="2" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar arr/hi0005.png" x="644" y="2" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar arr/hi0010.png" x="1286" y="2" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar arr/hi0015.png" x="1928" y="2" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar arr/hi0020.png" x="2570" y="2" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar arr/hi0025.png" x="3212" y="2" w="480" h="640" pX="0" pY="0" r="y"/>
+    <sprite n="andar baj/hi0000.png" x="2" y="484" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar baj/hi0005.png" x="644" y="484" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar baj/hi0010.png" x="1286" y="484" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar baj/hi0015.png" x="1928" y="484" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar baj/hi0020.png" x="2570" y="484" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar baj/hi0025.png" x="3212" y="644" w="480" h="640" pX="0" pY="0" r="y"/>
+    <sprite n="andar der/hi0000.png" x="2" y="966" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar der/hi0005.png" x="644" y="966" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar der/hi0010.png" x="1286" y="966" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar der/hi0015.png" x="1928" y="966" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar der/hi0020.png" x="2570" y="966" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar der/hi0025.png" x="3212" y="1286" w="480" h="640" pX="0" pY="0" r="y"/>
+    <sprite n="andar iz/hi0000.png" x="2" y="1448" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar iz/hi0005.png" x="644" y="1448" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar iz/hi0010.png" x="1286" y="1448" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar iz/hi0015.png" x="1928" y="1448" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar iz/hi0020.png" x="2570" y="1448" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="andar iz/hi0025.png" x="2" y="1930" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq arr/hi0000.png" x="644" y="1930" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq arr/hi0005.png" x="1286" y="1930" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq arr/hi0010.png" x="1928" y="1930" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq arr/hi0015.png" x="2570" y="1930" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq arr/hi0020.png" x="3212" y="1928" w="480" h="640" pX="0" pY="0" r="y"/>
+    <sprite n="atq baj/hi0000.png" x="2" y="2412" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq baj/hi0005.png" x="644" y="2412" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq baj/hi0010.png" x="1286" y="2412" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq baj/hi0015.png" x="1928" y="2412" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq baj/hi0020.png" x="2570" y="2412" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq der/hi0000.png" x="3212" y="2570" w="480" h="640" pX="0" pY="0" r="y"/>
+    <sprite n="atq der/hi0005.png" x="2" y="2894" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq der/hi0010.png" x="644" y="2894" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq der/hi0015.png" x="1286" y="2894" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq der/hi0020.png" x="1928" y="2894" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq iz/hi0000.png" x="2570" y="2894" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq iz/hi0005.png" x="3212" y="3212" w="480" h="640" pX="0" pY="0" r="y"/>
+    <sprite n="atq iz/hi0010.png" x="2" y="3376" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq iz/hi0015.png" x="644" y="3376" w="640" h="480" pX="0" pY="0"/>
+    <sprite n="atq iz/hi0020.png" x="1286" y="3376" w="640" h="480" pX="0" pY="0"/>
+</TextureAtlas>

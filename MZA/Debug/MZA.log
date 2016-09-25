@@ -1,0 +1,83 @@
+﻿Compilación iniciada a las 25/09/2016 1:16:46.
+     1>Proyecto "C:\Users\Alex\Desktop\MZA\MZA\MZA\MZA.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Alex\Downloads\SFML-VS\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Zombi.cpp
+         Zombi.cpp
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(31): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(32): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(37): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(38): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(41): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(42): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(55): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(56): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(64): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(65): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(71): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(72): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(88): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(89): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(104): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(105): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(116): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(117): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(137): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(138): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(152): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(153): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(163): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(164): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(184): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(185): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(195): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(196): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(203): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\contenedormza.h(204): warning C4244: 'inicializando' : conversión de 'double' a 'const int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(30): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(47): warning C4244: 'argumento' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(56): warning C4244: '=' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(57): warning C4244: '=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(61): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(75): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(78): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(81): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(84): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(97): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(100): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(103): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(106): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(145): warning C4244: 'argumento' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(191): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(220): warning C4244: 'inicializando' : conversión de 'const float' a 'int'; posible pérdida de datos
+     1>c:\users\alex\desktop\mza\mza\mza\zombi.cpp(221): warning C4244: 'inicializando' : conversión de 'const float' a 'int'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alex\Desktop\MZA\MZA\Debug\MZA.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Alex\Downloads\SFML-VS\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Alex\Desktop\MZA\MZA\Debug\MZA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alex\Desktop\MZA\MZA\Debug\MZA.lib" /MACHINE:X86 Debug\Arquero.obj
+         Debug\Boton.obj
+         Debug\BotonMenu.obj
+         Debug\Canon.obj
+         Debug\Castillo.obj
+         Debug\Celda.obj
+         Debug\contenedorCastillo.obj
+         Debug\ContenedorMZA.obj
+         Debug\Estructura.obj
+         Debug\Fabrica.obj
+         Debug\IAZombi.obj
+         Debug\Juego.obj
+         Debug\Jugador.obj
+         Debug\main.obj
+         Debug\Mapa.obj
+         Debug\MenuLateralJuego.obj
+         Debug\MenuPrincipal.obj
+         Debug\Mina.obj
+         Debug\Muro.obj
+         Debug\PoderWololo.obj
+         Debug\PosicionInterpolacion.obj
+         Debug\Ronda.obj
+         Debug\Zombi.obj
+         Debug\ZombiePrueba.obj
+         MZA.vcxproj -> C:\Users\Alex\Desktop\MZA\MZA\Debug\MZA.exe
+     1>Compilación del proyecto terminada "C:\Users\Alex\Desktop\MZA\MZA\MZA\MZA.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.25
